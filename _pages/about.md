@@ -56,7 +56,7 @@ ___
 </div>
 ---
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/OlfCircuit2.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <img src="images/OlfCircuit.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
     <a href="https://www.biorxiv.org/content/10.1101/2025.09.03.673748v1.abstract" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Convergent motifs of early olfactory processing are recapitulated by layer-wise efficient coding
@@ -126,7 +126,7 @@ ___
 </div>
 ---
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/Infarct4.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <img src="images/Infarct.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
     <a href="https://www.sciencedirect.com/science/article/pii/S1097664723010438" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Submillimeter diffusion tensor imaging and late gadolinium enhancement cardiovascular magnetic resonance of chronic myocardial infarction
