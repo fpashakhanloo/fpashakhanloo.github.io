@@ -159,7 +159,7 @@ ___
 </div>
 ---
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/CINECNN.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <img src="images/CineCNN.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
     <a href="https://academic.oup.com/ehjcimaging/article/23/4/532/6199608" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Multi-domain convolutional neural network (MD-CNN) for radial reconstruction of dynamic cardiac MRI
