@@ -47,7 +47,7 @@ ___
 <div style="display: flex; align-items: flex-start;">
   <img src="images/MNISTWebsite.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
-    <a href="" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+    <a href="https://arxiv.org/abs/2510.21588" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Contribution of task-irrelevant stimuli to drift of neural representations
     </a><br>
     <strong>Farhad Pashakhanloo</strong>, Advances in Neural Information Processing Systems (NeurIPS) 39 (2025).<br>
