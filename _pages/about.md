@@ -36,9 +36,9 @@ Text will
 <div style="display: flex; align-items: flex-start;">
   <img src="images/RSMWebsite.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
-    <a href="" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+    <a href="https://openreview.net/forum?id=RONtMurgtS#discussion" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Data symmetries generate drifting similarity matrices in manifold-tiling neural codes
-    </a>(preprint to appear soon)<br>
+    </a><br>
     <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, UniReps Workshop, Neurips 2025.<br>
     <br>
   </span>
