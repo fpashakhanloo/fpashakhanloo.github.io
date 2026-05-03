@@ -61,7 +61,7 @@ ___
     <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2524661123" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Convergent motifs of early olfactory processing are recapitulated by layer-wise efficient coding
     </a><br>
-     Juan Carlos Fernández del Castillo, <strong>Farhad Pashakhanloo</strong>, Venkatesh N. Murthy,  Jacob A. Zavatone-Veth, *Proceedings of the National Academy of Sciences (PNAS)*, 2026<br>
+     Juan Carlos Fernández del Castillo, <strong>Farhad Pashakhanloo</strong>, Venkatesh N. Murthy,  Jacob A. Zavatone-Veth, Proceedings of the National Academy of Sciences (PNAS), 2026<br>
     <br>
   </span>
 </div>
@@ -72,7 +72,7 @@ ___
     <a href="https://www.nature.com/articles/s41467-026-72445-1" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Perception and neural representation of intermittent odor stimuli in mice
     </a><br>
-    Luis Boero,  Hao Wu,  Joseph D. Zak,  Paul Masset, <strong>Farhad Pashakhanloo</strong>,  Siddharth Jayakumar,  Bahareh Tolooshams,  Demba Ba,  Venkatesh N. Murthy, *Nature Communications*, 2026.<br>
+    Luis Boero,  Hao Wu,  Joseph D. Zak,  Paul Masset, <strong>Farhad Pashakhanloo</strong>,  Siddharth Jayakumar,  Bahareh Tolooshams,  Demba Ba,  Venkatesh N. Murthy, Nature Communications, 2026.<br>
     <br>
   </span>
 </div>
@@ -83,7 +83,7 @@ ___
     <a href="https://www.biorxiv.org/content/10.64898/2026.01.27.702074v1.abstract" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Sparse input representations explain odor discrimination in complex, concentration-varying mixtures
     </a><br>
-    Hannah McCalmon, George Cai, Constantine Tsibouris,  <strong>Farhad Pashakhanloo</strong>,  SueYeon Chung,  Vikrant Kapoor,  Venkatesh N. Murthy, *BioRxiv*, 2026.<br>
+    Hannah McCalmon, George Cai, Constantine Tsibouris,  <strong>Farhad Pashakhanloo</strong>,  SueYeon Chung,  Vikrant Kapoor,  Venkatesh N. Murthy, BioRxiv, 2026.<br>
     <br>
   </span>
 </div>
