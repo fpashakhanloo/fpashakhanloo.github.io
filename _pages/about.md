@@ -78,6 +78,17 @@ ___
 </div>
 ___
 <div style="display: flex; align-items: flex-start;">
+  <img src="images/SparseInput.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <span style="font-size:14px">
+    <a href="https://www.biorxiv.org/content/10.64898/2026.01.27.702074v1.abstract" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+     Sparse input representations explain odor discrimination in complex, concentration-varying mixtures
+    </a><br>
+    Hannah McCalmon, George Cai, Constantine Tsibouris,  <strong>Farhad Pashakhanloo</strong>,  SueYeon Chung,  Vikrant Kapoor,  Venkatesh N. Murthy, *BioRxiv*, 2026.<br>
+    <br>
+  </span>
+</div>
+___
+<div style="display: flex; align-items: flex-start;">
   <img src="images/Research2.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
     <a href="https://proceedings.mlr.press/v202/pashakhanloo23a.html" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
