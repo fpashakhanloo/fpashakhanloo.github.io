@@ -36,11 +36,16 @@ Text will
 <div style="display: flex; align-items: flex-start;">
   <img src="images/RSMWebsite.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
+<a href="https://arxiv.org/abs/2605.21324" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+     Stimulus symmetries can confound representational similarity analyses
+    </a><br>
+    <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	arXiv:2605.21324 (2026).<br>
+    <br>
+    Previous version: <br>
     <a href="https://openreview.net/forum?id=RONtMurgtS#discussion" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Data symmetries generate drifting similarity matrices in manifold-tiling neural codes
-    </a><br>
-    <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025.<br>
-    <br>
+    </a>
+     Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025. <br>
   </span>
 </div>
 ___
