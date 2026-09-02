@@ -85,10 +85,10 @@ ___
 <div style="display: flex; align-items: flex-start;">
   <img src="images/SparseInput.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
-    <a href="https://www.biorxiv.org/content/10.64898/2026.01.27.702074v1.abstract" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+    <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00961-7" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Sparse input representations explain odor discrimination in complex, concentration-varying mixtures
     </a><br>
-    Hannah McCalmon, George Cai, Constantine Tsibouris,  <strong>Farhad Pashakhanloo</strong>,  SueYeon Chung,  Vikrant Kapoor,  Venkatesh N. Murthy, BioRxiv, 2026.<br>
+    Hannah McCalmon, George Cai, Constantine Tsibouris,  <strong>Farhad Pashakhanloo</strong>,  SueYeon Chung,  Vikrant Kapoor,  Venkatesh N. Murthy, Cell Reports 45 (9), 2026.<br>
     <br>
   </span>
 </div>
