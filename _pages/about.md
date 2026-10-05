@@ -40,7 +40,7 @@ Text will
 <a href="https://arxiv.org/abs/2610.03640" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Broken scale symmetries in undercomplete linear autoencoders
     </a><br>
-    <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	NeurIPS 2026 Symmetry and Geometry in Neural Representations Workshop (Selected as oral presentation).<br>
+    <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	NeurIPS 2026 Symmetry and Geometry in Neural Representations Workshop (Selected for oral presentation).<br>
     <br>
   </span>
 </div>
