@@ -54,8 +54,11 @@ ___
     </a><br>
     <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	arXiv:2605.21324 (2026).<br>
     <br>
-    <br> Also presented at: Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025.
+    <br> Other versions: Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025.
     <a href="https://openreview.net/forum?id=RONtMurgtS#discussion" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+     [Link]
+    </a> 9th Annual Conference on Cognitive Computational Neuroscience (2026).
+    <a href="https://openreview.net/forum?id=XybnRnJZ6J&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dccneuro.org%2FCCN%2F2026%2FExtended_Abstracts%2FAuthors%23your-submissions)" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      [Link]
     </a>
       <br>
