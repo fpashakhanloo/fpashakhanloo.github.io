@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="font-size: 17px;">
-<p>I am a CBS-NTT Physics of Intelligence fellow in the Center for Brain Science at <b>Harvard University</b>. I am interested in various problems at the intersection of Neuroscience and Artificial Intelligence, and specifically how these two fields can benefit each other.</p>
+<p>I am a CBS-NTT Physics of Intelligence fellow in the Center for Brain Science at <b>Harvard University</b>. I am interested in various problems at the intersection of neuroscience and artificial intelligence, with a particular focus on learning in biological and artificial neural networks.</p>
 
 <p>I received my PhD from the <b>Johns Hopkins University</b>, and previously was an Instructor in Medicine at the <b>Harvard Medical School</b>, and a Swartz Fellow in Theoretical Neuroscience at the <b>Cold Spring Harbor Laboratory</b> in New York. Prior to this, I conducted physics-inspired imaging and modeling research focused on understanding structure and dynamics in the heart. To learn more about some of past and current projects please see below, and my
 <a href="https://scholar.google.com/citations?user=aIQV3HAAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
