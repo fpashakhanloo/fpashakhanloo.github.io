@@ -53,7 +53,7 @@ ___
      Stimulus symmetries can confound representational similarity analyses
     </a><br>
     <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	arXiv:2605.21324 (2026).
-    <br> Other versions:<br> Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025.
+    <br><br> Other versions:<br> Unifying Representations in Neural Models (UniReps) Workshop, NeurIPS 2025.
     <a href="https://openreview.net/forum?id=RONtMurgtS#discussion" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      [Link] <br>
     </a> 9th Annual Conference on Cognitive Computational Neuroscience (2026).
