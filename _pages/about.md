@@ -33,6 +33,19 @@ redirect_from:
 Text will 
 <div style="clear: both;"></div>
  flow around the image.Text will flow around the image.Text will flow around the image.Text will flow around the image. -->
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="images/BrokenSymmetry.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <span style="font-size:14px">
+<a href="https://arxiv.org/abs/2610.03640" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+     Broken scale symmetries in undercomplete linear autoencoders
+    </a><br>
+    <strong>Farhad Pashakhanloo</strong>, and Jacob Zavatone-Veth, 	NeurIPS 2026 Symmetry and Geometry in Neural Representations Workshop (Selected as oral presentation).<br>
+    <br>
+  </span>
+</div>
+___
+
 <div style="display: flex; align-items: flex-start;">
   <img src="images/RSMWebsite.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
