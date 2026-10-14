@@ -35,6 +35,18 @@ Text will
  flow around the image.Text will flow around the image.Text will flow around the image.Text will flow around the image. -->
 
 <div style="display: flex; align-items: flex-start;">
+  <img src="images/Perceptual.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <span style="font-size:14px">
+<a href="https://arxiv.org/abs/2610.17164" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
+     Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors
+    </a><br>
+    <strong>Farhad Pashakhanloo</strong>, and Venkatesh N. Murthy, 	arXiv:2610.17164 (2026).<br>
+    <br>
+  </span>
+</div>
+___
+
+<div style="display: flex; align-items: flex-start;">
   <img src="images/BrokenSymmetry.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
 <a href="https://arxiv.org/abs/2610.03640" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
