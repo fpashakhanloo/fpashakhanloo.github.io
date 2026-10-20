@@ -82,10 +82,9 @@ ___
     <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/177219c339baceed9eed96e6c85be293-Abstract-Conference.html" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      Contribution of task-irrelevant stimuli to drift of neural representations
     </a><br>
-    <strong>Farhad Pashakhanloo</strong>, Advances in Neural Information Processing Systems (NeurIPS) 39 (2025).<br>
-See <a href="https://mghpcc.org/sc/project/learning-beyond-attention/" target="_blank" style="color: #6aabc5ff; text-decoration: none;">
-  MGHPCC feature
-</a>.<br>
+    <strong>Farhad Pashakhanloo</strong>, Advances in Neural Information Processing Systems (NeurIPS) 39 (2025).<br><br>
+See <a href="https://mghpcc.org/sc/project/learning-beyond-attention/" target="_blank" style="color: #6aabc5ff; text-decoration: none;">MGHPCC feature</a> on this work
+</a>.
     <br>
   </span>
 </div>
