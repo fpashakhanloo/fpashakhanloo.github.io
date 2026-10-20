@@ -86,7 +86,6 @@ ___
 See <a href="https://mghpcc.org/sc/project/learning-beyond-attention/" target="_blank" style="color: #6aabc5ff; text-decoration: none;">
   MGHPCC feature
 </a>.<br>
-</a><br>
     <br>
   </span>
 </div>
