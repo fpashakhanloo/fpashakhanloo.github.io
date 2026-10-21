@@ -122,7 +122,7 @@ ___
 </div>
 ___
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/Research2.png" alt="Alt text" width="200" style="margin-right: 20px;">
+  <img src="images/SGDDrift.png" alt="Alt text" width="200" style="margin-right: 20px;">
   <span style="font-size:14px">
     <a href="https://proceedings.mlr.press/v202/pashakhanloo23a.html" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      SGD-Induced Drift of Representation in a Two-Layer Neural Network
