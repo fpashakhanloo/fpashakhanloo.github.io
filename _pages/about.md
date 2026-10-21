@@ -127,7 +127,7 @@ ___
     <a href="https://proceedings.mlr.press/v202/pashakhanloo23a.html" target="_blank" style="color: #6aabc5ff; text-decoration: none; font-weight: bold;">
      SGD-Induced Drift of Representation in a Two-Layer Neural Network
     </a><br>
-    <strong>Farhad Pashakhanloo</strong>, and Alexei Koulakov Proceedings of the 40th International Conference on Machine Learning, PMLR 202:27401-27419, 2023.<br>
+    <strong>Farhad Pashakhanloo</strong>, and Alexei Koulakov Proceedings of the 40th International Conference on Machine Learning (ICML), 202:27401-27419, 2023.<br>
     <br>
   </span>
 </div>
