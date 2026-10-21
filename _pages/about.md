@@ -140,9 +140,9 @@ ___
      Minimal Functional Clusters Predict the Probability of Reentry in Cardiac Fibrotic Tissue
     </a><br>
     <strong>Farhad Pashakhanloo</strong>, and Alexander V. Panfilov, Physical Review Letters 127.9 (2021): 098101.<br>
-    
-    This work was featured on the cover of <a href="https://journals.aps.org/prl/issues/127/9" target="_blank">Physical Review Letters</a> in Aug 2021.
     <br>
+    This work was featured on the cover of <a href="https://journals.aps.org/prl/issues/127/9" target="_blank">Physical Review Letters</a> in Aug 2021.
+    
   </span>
 </div>
 ___
