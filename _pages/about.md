@@ -129,6 +129,8 @@ ___
     </a><br>
     <strong>Farhad Pashakhanloo</strong>, and Alexei Koulakov Proceedings of the 40th International Conference on Machine Learning (ICML), 202:27401-27419, 2023.<br>
     <br>
+See <a href="https://www.thetransmitter.org/learning/what-drifting-representations-reveal-about-the-brain/" target="_blank" style="color: #6aabc5ff; text-decoration: none;">The Transmitter article featuring this work and my comments.</a>.
+
   </span>
 </div>
 ___
