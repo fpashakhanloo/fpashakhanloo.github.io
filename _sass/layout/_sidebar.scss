@@ -262,3 +262,85 @@
     }
   }
 }
+
+// Give the portrait room in the mobile profile without changing the desktop sidebar.
+@include breakpoint(max-width ($large - 1px)) {
+  .sidebar {
+    // The legacy navigation script adds inline padding when no Follow button is visible.
+    padding-top: 0 !important;
+  }
+
+  .author__profile {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+
+    > .author__avatar {
+      display: block;
+      width: 160px;
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    > .author__content {
+      display: block;
+      padding: 0;
+      text-align: center;
+      overflow-wrap: break-word;
+    }
+
+    .author__bio {
+      margin-top: 4px;
+      font-size: 14px;
+    }
+
+    > .author__urls-wrapper {
+      display: block;
+      width: 100%;
+      cursor: auto;
+    }
+
+    .author__urls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0 20px;
+      position: static;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      box-shadow: none;
+      z-index: auto;
+
+      &:before,
+      &:after {
+        display: none;
+      }
+
+      .author__employer {
+        display: block;
+        flex-basis: 100%;
+        text-align: center;
+        font-size: 14px;
+      }
+
+      a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 44px;
+        margin-bottom: 0;
+        padding: 6px 0;
+        color: inherit;
+        font-size: 14px;
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+    }
+  }
+}
