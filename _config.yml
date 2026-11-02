@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
+show_masthead            : false # Set to true to restore the top navigation bar.
 title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Farhad Pashakhanloo"
